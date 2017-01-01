@@ -13,7 +13,6 @@ class NodesController extends BaseController
     /**
      * 构造方法
      *
-     * @description 方法说明
      * @author @author yangyifan <yangyifanphp@gmail.com>
      */
     public function __construct()
